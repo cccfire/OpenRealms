@@ -1,0 +1,32 @@
+C:\Users\mulug\Desktop\New folder\bin\Debug\LibSOE.dll
+C:\Users\mulug\Desktop\New folder\bin\Debug\LibSOE.pdb
+C:\Users\mulug\Desktop\New folder\LibSOE\obj\Debug\LibSOE.csprojAssemblyReference.cache
+C:\Users\mulug\Desktop\New folder\LibSOE\obj\Debug\LibSOE.csproj.CoreCompileInputs.cache
+C:\Users\mulug\Desktop\New folder\LibSOE\obj\Debug\LibSOE.csproj.CopyComplete
+C:\Users\mulug\Desktop\New folder\LibSOE\obj\Debug\LibSOE.dll
+C:\Users\mulug\Desktop\New folder\LibSOE\obj\Debug\LibSOE.pdb
+C:\CWA stuff\New_folder\New folder\bin\Debug\LibSOE.dll
+C:\CWA stuff\New_folder\New folder\bin\Debug\LibSOE.pdb
+C:\CWA stuff\New_folder\New folder\LibSOE\obj\Debug\LibSOE.csprojResolveAssemblyReference.cache
+C:\CWA stuff\New_folder\New folder\LibSOE\obj\Debug\LibSOE.csproj.CoreCompileInputs.cache
+C:\CWA stuff\New_folder\New folder\LibSOE\obj\Debug\LibSOE.dll
+C:\CWA stuff\New_folder\New folder\LibSOE\obj\Debug\LibSOE.pdb
+C:\CWA stuff\frtestserver\bin\Debug\LibSOE.dll
+C:\CWA stuff\frtestserver\bin\Debug\LibSOE.pdb
+C:\CWA stuff\frtestserver\LibSOE\obj\Debug\LibSOE.csproj.CoreCompileInputs.cache
+C:\CWA stuff\frtestserver\LibSOE\obj\Debug\LibSOE.dll
+C:\CWA stuff\frtestserver\LibSOE\obj\Debug\LibSOE.pdb
+D:\Users\mattm\misc\CWA stuff\frtestserver\bin\Debug\LibSOE.dll
+D:\Users\mattm\misc\CWA stuff\frtestserver\bin\Debug\LibSOE.pdb
+D:\Users\mattm\misc\CWA stuff\frtestserver\LibSOE\obj\Debug\LibSOE.csproj.CoreCompileInputs.cache
+D:\Users\mattm\misc\CWA stuff\frtestserver\LibSOE\obj\Debug\LibSOE.csproj.CopyComplete
+D:\Users\mattm\misc\CWA stuff\frtestserver\LibSOE\obj\Debug\LibSOE.dll
+D:\Users\mattm\misc\CWA stuff\frtestserver\LibSOE\obj\Debug\LibSOE.pdb
+D:\Users\mattm\misc\CWA stuff\frtestserver\LibSOE\obj\Debug\LibSOE.csproj.AssemblyReference.cache
+C:\Users\caleb\Downloads\frtestserver\bin\Debug\LibSOE.dll
+C:\Users\caleb\Downloads\frtestserver\bin\Debug\LibSOE.pdb
+C:\Users\caleb\Downloads\frtestserver\LibSOE\obj\Debug\LibSOE.csproj.AssemblyReference.cache
+C:\Users\caleb\Downloads\frtestserver\LibSOE\obj\Debug\LibSOE.csproj.CoreCompileInputs.cache
+C:\Users\caleb\Downloads\frtestserver\LibSOE\obj\Debug\LibSOE.csproj.CopyComplete
+C:\Users\caleb\Downloads\frtestserver\LibSOE\obj\Debug\LibSOE.dll
+C:\Users\caleb\Downloads\frtestserver\LibSOE\obj\Debug\LibSOE.pdb

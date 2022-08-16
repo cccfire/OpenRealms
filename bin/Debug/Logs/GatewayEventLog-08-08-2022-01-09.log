@@ -1,0 +1,47 @@
+<2022-08-08 01:09:54,236> :SOEServer: [INFO] Initializing server...
+<2022-08-08 01:09:54,245> :SOEConnectionManager: [INFO] Service constructed
+<2022-08-08 01:09:54,247> :SOEProtocol: [INFO] Service constructed
+<2022-08-08 01:09:54,251> :SOEProtocol: [INFO] Using protocol -- CGAPI_527
+<2022-08-08 01:09:54,251> :SOERoleManager: [INFO] Service constructed
+<2022-08-08 01:09:54,252> :SOERoleManager: [INFO] Loading role: 'Gateway.dll'...
+<2022-08-08 01:09:54,259> :Gateway: [INFO] Constructing gateway...
+<2022-08-08 01:09:54,259> :LoginManager: [INFO] Service constructed
+<2022-08-08 01:09:54,259> :Gateway: [INFO] Finished constructing gateway!
+<2022-08-08 01:09:54,367> :SOEServer: [INFO] Finished initiating server!
+<2022-08-08 01:09:54,370> :SOEServer: [INFO] Starting server threads...
+<2022-08-08 01:09:54,374> :SOEServer: [INFO] Started listening!
+<2022-08-08 01:11:01,923> :SOEConnectionManager: [INFO] New client connection from 127.0.0.1, (ID: 0)
+<2022-08-08 01:11:02,215> :SOEProtocol: [INFO] Received 0x1, FR_PacketLogin!
+<2022-08-08 01:11:02,352> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 01:11:02,476> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 01:11:02,582> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 01:11:02,689> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 01:11:02,797> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 01:11:02,935> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 01:11:02,951> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 01:11:02,982> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 01:11:02,982> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 01:11:03,012> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 01:11:03,012> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 01:11:03,043> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 01:11:03,043> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 01:11:03,059> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 01:11:03,073> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 01:11:03,103> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 01:11:03,118> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 01:11:03,210> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 01:11:03,348> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 01:11:03,364> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 01:11:03,364> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 01:11:03,379> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 01:11:03,410> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 01:11:03,410> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 01:11:03,441> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 01:11:03,456> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 01:11:03,471> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 01:11:03,486> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 01:11:03,501> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 01:11:03,609> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 01:11:03,717> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 01:11:49,006> :SOEConnectionManager: [INFO] Disconnecting Idle client
+<2022-08-08 01:11:50,050> :SOEConnectionManager: [INFO] Disconnecting client on 127.0.0.1 (ID: 0) for reason: Timeout

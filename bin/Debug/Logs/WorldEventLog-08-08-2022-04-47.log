@@ -1,0 +1,7 @@
+<2022-08-08 16:47:50,538> :SOEServer: [INFO] Initializing server...
+<2022-08-08 16:47:50,538> :SOEConnectionManager: [INFO] Service constructed
+<2022-08-08 16:47:50,538> :SOEProtocol: [INFO] Service constructed
+<2022-08-08 16:47:50,538> :SOERoleManager: [INFO] Service constructed
+<2022-08-08 16:47:50,538> :SOEServer: [INFO] Finished initiating server!
+<2022-08-08 16:47:50,538> :SOEServer: [INFO] Starting server threads...
+<2022-08-08 16:47:50,540> :SOEServer: [INFO] Started listening!

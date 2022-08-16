@@ -1,0 +1,43 @@
+<2022-08-08 19:54:00,300> :SOEServer: [INFO] Initializing server...
+<2022-08-08 19:54:00,309> :SOEConnectionManager: [INFO] Service constructed
+<2022-08-08 19:54:00,310> :SOEProtocol: [INFO] Service constructed
+<2022-08-08 19:54:00,315> :SOEProtocol: [INFO] Using protocol -- CGAPI_527
+<2022-08-08 19:54:00,316> :SOERoleManager: [INFO] Service constructed
+<2022-08-08 19:54:00,317> :SOERoleManager: [INFO] Loading role: 'Gateway.dll'...
+<2022-08-08 19:54:00,326> :Gateway: [INFO] Constructing gateway...
+<2022-08-08 19:54:00,327> :LoginManager: [INFO] Service constructed
+<2022-08-08 19:54:00,327> :Gateway: [INFO] Finished constructing gateway!
+<2022-08-08 19:54:00,419> :SOEServer: [INFO] Finished initiating server!
+<2022-08-08 19:54:00,421> :SOEServer: [INFO] Starting server threads...
+<2022-08-08 19:54:00,424> :SOEServer: [INFO] Started listening!
+<2022-08-08 19:54:51,412> :SOEConnectionManager: [INFO] New client connection from 127.0.0.1, (ID: 0)
+<2022-08-08 19:54:51,471> :SOEProtocol: [INFO] Received 0x1, FR_PacketLogin!
+<2022-08-08 19:54:51,604> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 19:54:51,711> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 19:54:51,819> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 19:54:51,928> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 19:54:52,034> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 19:54:52,156> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 19:54:52,172> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 19:54:52,202> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 19:54:52,202> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 19:54:52,234> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 19:54:52,249> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 19:54:52,249> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 19:54:52,280> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 19:54:52,280> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 19:54:52,311> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 19:54:52,311> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 19:54:52,342> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 19:54:52,342> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 19:54:52,449> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 19:54:52,575> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 19:54:52,575> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 19:54:52,603> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 19:54:52,634> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 19:54:52,634> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 19:54:52,665> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 19:54:52,665> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 19:54:52,726> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 19:54:52,836> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-08 19:54:52,943> :SOEDataChannel: [INFO] (Client 0) Data Ack

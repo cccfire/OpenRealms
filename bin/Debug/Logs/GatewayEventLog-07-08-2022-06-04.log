@@ -1,0 +1,97 @@
+<2022-08-07 18:04:39,745> :SOEServer: [INFO] Initializing server...
+<2022-08-07 18:04:39,754> :SOEConnectionManager: [INFO] Service constructed
+<2022-08-07 18:04:39,755> :SOEProtocol: [INFO] Service constructed
+<2022-08-07 18:04:39,759> :SOEProtocol: [INFO] Using protocol -- CGAPI_527
+<2022-08-07 18:04:39,760> :SOERoleManager: [INFO] Service constructed
+<2022-08-07 18:04:39,760> :SOERoleManager: [INFO] Loading role: 'Gateway.dll'...
+<2022-08-07 18:04:39,768> :Gateway: [INFO] Constructing gateway...
+<2022-08-07 18:04:39,768> :LoginManager: [INFO] Service constructed
+<2022-08-07 18:04:39,769> :Gateway: [INFO] Finished constructing gateway!
+<2022-08-07 18:04:39,866> :SOEServer: [INFO] Finished initiating server!
+<2022-08-07 18:04:39,868> :SOEServer: [INFO] Starting server threads...
+<2022-08-07 18:04:39,871> :SOEServer: [INFO] Started listening!
+<2022-08-07 18:04:44,917> :SOEConnectionManager: [INFO] New client connection from 127.0.0.1, (ID: 0)
+<2022-08-07 18:04:44,976> :SOEProtocol: [INFO] Received 0x1, FR_PacketLogin!
+<2022-08-07 18:04:45,112> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-07 18:04:45,220> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-07 18:04:45,329> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-07 18:04:45,438> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-07 18:04:45,546> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-07 18:04:45,685> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-07 18:04:45,716> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-07 18:04:45,731> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-07 18:04:45,747> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-07 18:04:45,747> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-07 18:04:45,778> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-07 18:04:45,778> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-07 18:04:45,809> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-07 18:04:45,809> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-07 18:04:45,840> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-07 18:04:45,855> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-07 18:04:45,964> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-07 18:04:46,088> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-07 18:04:46,088> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-07 18:04:46,103> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-07 18:04:46,134> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-07 18:04:46,149> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-07 18:04:46,165> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-07 18:04:46,165> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-07 18:04:46,180> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-07 18:04:46,210> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-07 18:04:46,241> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-07 18:04:46,241> :SOEProtocol: [INFO] Received Unknown SOEMessage 6400!
+<2022-08-07 18:04:46,350> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-07 18:04:46,458> :SOEDataChannel: [INFO] (Client 0) Data Ack
+<2022-08-07 18:04:47,136> :SOEProtocol: [INFO] Received Unknown SOEMessage 6!
+<2022-08-07 18:04:55,059> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:05:06,040> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:05:17,028> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:05:28,054> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:05:39,035> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:05:50,040> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:06:01,028> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:06:12,060> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:06:23,049> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:06:34,040> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:06:45,049> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:06:56,063> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:07:07,050> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:07:18,047> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:07:29,043> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:07:40,054> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:07:51,030> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:08:02,040> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:08:13,024> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:08:24,046> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:08:35,029> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:08:46,055> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:08:57,043> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:09:08,058> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:09:19,034> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:09:30,060> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:09:41,042> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:09:52,028> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:10:03,052> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:10:14,057> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:10:25,034> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:10:36,026> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:10:47,039> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:10:58,025> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:11:09,038> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:11:20,046> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:11:31,028> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:11:42,042> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:11:53,028> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:12:04,030> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:12:15,021> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:12:26,039> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:12:37,045> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:12:48,021> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:12:59,040> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:13:10,032> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:13:21,038> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:13:32,064> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:13:43,044> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:13:54,029> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:14:05,035> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!
+<2022-08-07 18:14:16,045> :SOEProtocol: [INFO] Received Unknown SOEMessage 5!

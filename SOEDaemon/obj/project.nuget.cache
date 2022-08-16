@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZX3CJzYimp8IweGGFh9xuYHXHdetXotk3K3IWr01yiCCDZNO7qeVVhgQKKXvzyeU4S8tI+Pa+IsEHbdLkVJdvQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\caleb\\Downloads\\frtestserver\\SOEDaemon\\SOEDaemon.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\caleb\\.nuget\\packages\\commandlineparser\\1.9.71\\commandlineparser.1.9.71.nupkg.sha512",
+    "C:\\Users\\caleb\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
