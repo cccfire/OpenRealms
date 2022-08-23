@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7fQHaKiG+aeC5IUnljlmkOb6tiKPE7Z7PTJUdLYufDNBi7441NgB76f6tDKXYU2hG7NblZmAk3xHEMdigN/nOg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Groaxy\\Desktop\\Landwalker\\Landwalker Server Assets\\Server Stuff (Don't Touch)\\FreeRealms\\FreeRealms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Groaxy\\.nuget\\packages\\dotnetzip\\1.10.1\\dotnetzip.1.10.1.nupkg.sha512",
+    "C:\\Users\\Groaxy\\.nuget\\packages\\log4net\\2.0.8\\log4net.2.0.8.nupkg.sha512",
+    "C:\\Users\\Groaxy\\.nuget\\packages\\newtonsoft.json\\11.0.1\\newtonsoft.json.11.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

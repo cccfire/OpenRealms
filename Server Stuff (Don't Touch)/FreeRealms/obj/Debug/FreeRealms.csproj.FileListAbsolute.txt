@@ -1,0 +1,42 @@
+C:\Users\Groax\Documents\Free Realms Project\C# Servers\FR_Server\bin\Debug\FreeRealms.dll
+C:\Users\Groax\Documents\Free Realms Project\C# Servers\FR_Server\bin\Debug\FreeRealms.pdb
+C:\Users\Groax\Documents\Free Realms Project\C# Servers\FR_Server\FreeRealms\obj\Debug\FreeRealms.csproj.AssemblyReference.cache
+C:\Users\Groax\Documents\Free Realms Project\C# Servers\FR_Server\FreeRealms\obj\Debug\FreeRealms.csproj.CoreCompileInputs.cache
+C:\Users\Groax\Documents\Free Realms Project\C# Servers\FR_Server\FreeRealms\obj\Debug\FreeRealms.csproj.CopyComplete
+C:\Users\Groax\Documents\Free Realms Project\C# Servers\FR_Server\FreeRealms\obj\Debug\FreeRealms.dll
+C:\Users\Groax\Documents\Free Realms Project\C# Servers\FR_Server\FreeRealms\obj\Debug\FreeRealms.pdb
+C:\Users\Groaxy\OneDrive\Free Realms Project\C# Servers\FR_Server\bin\Debug\FreeRealms.dll
+C:\Users\Groaxy\OneDrive\Free Realms Project\C# Servers\FR_Server\bin\Debug\FreeRealms.pdb
+C:\Users\Groaxy\OneDrive\Free Realms Project\C# Servers\FR_Server\FreeRealms\obj\Debug\FreeRealms.csproj.AssemblyReference.cache
+C:\Users\Groaxy\OneDrive\Free Realms Project\C# Servers\FR_Server\FreeRealms\obj\Debug\FreeRealms.csproj.CoreCompileInputs.cache
+C:\Users\Groaxy\OneDrive\Free Realms Project\C# Servers\FR_Server\FreeRealms\obj\Debug\FreeRealms.csproj.CopyComplete
+C:\Users\Groaxy\OneDrive\Free Realms Project\C# Servers\FR_Server\FreeRealms\obj\Debug\FreeRealms.dll
+C:\Users\Groaxy\OneDrive\Free Realms Project\C# Servers\FR_Server\FreeRealms\obj\Debug\FreeRealms.pdb
+C:\Users\Groaxy\OneDrive\Free Realms Project\C# Servers\FR_ServerOld\bin\Debug\FreeRealms.dll
+C:\Users\Groaxy\OneDrive\Free Realms Project\C# Servers\FR_ServerOld\bin\Debug\FreeRealms.pdb
+C:\Users\Groaxy\OneDrive\Free Realms Project\C# Servers\FR_ServerOld\FreeRealms\obj\Debug\FreeRealms.csproj.AssemblyReference.cache
+C:\Users\Groaxy\OneDrive\Free Realms Project\C# Servers\FR_ServerOld\FreeRealms\obj\Debug\FreeRealms.csproj.CoreCompileInputs.cache
+C:\Users\Groaxy\OneDrive\Free Realms Project\C# Servers\FR_ServerOld\FreeRealms\obj\Debug\FreeRealms.csproj.CopyComplete
+C:\Users\Groaxy\OneDrive\Free Realms Project\C# Servers\FR_ServerOld\FreeRealms\obj\Debug\FreeRealms.dll
+C:\Users\Groaxy\OneDrive\Free Realms Project\C# Servers\FR_ServerOld\FreeRealms\obj\Debug\FreeRealms.pdb
+C:\Users\Groaxy\OneDrive\Free Realms Project\Servers\C# Servers\My Server\bin\Debug\FreeRealms.dll
+C:\Users\Groaxy\OneDrive\Free Realms Project\Servers\C# Servers\My Server\bin\Debug\FreeRealms.pdb
+C:\Users\Groaxy\OneDrive\Free Realms Project\Servers\C# Servers\My Server\FreeRealms\obj\Debug\FreeRealms.csproj.AssemblyReference.cache
+C:\Users\Groaxy\OneDrive\Free Realms Project\Servers\C# Servers\My Server\FreeRealms\obj\Debug\FreeRealms.csproj.CoreCompileInputs.cache
+C:\Users\Groaxy\OneDrive\Free Realms Project\Servers\C# Servers\My Server\FreeRealms\obj\Debug\FreeRealms.csproj.CopyComplete
+C:\Users\Groaxy\OneDrive\Free Realms Project\Servers\C# Servers\My Server\FreeRealms\obj\Debug\FreeRealms.dll
+C:\Users\Groaxy\OneDrive\Free Realms Project\Servers\C# Servers\My Server\FreeRealms\obj\Debug\FreeRealms.pdb
+C:\Users\Groaxy\OneDrive\Free-Realms-Project\Servers\C# Servers\My Server\bin\Debug\FreeRealms.dll
+C:\Users\Groaxy\OneDrive\Free-Realms-Project\Servers\C# Servers\My Server\bin\Debug\FreeRealms.pdb
+C:\Users\Groaxy\OneDrive\Free-Realms-Project\Servers\C# Servers\My Server\FreeRealms\obj\Debug\FreeRealms.csproj.AssemblyReference.cache
+C:\Users\Groaxy\OneDrive\Free-Realms-Project\Servers\C# Servers\My Server\FreeRealms\obj\Debug\FreeRealms.csproj.CoreCompileInputs.cache
+C:\Users\Groaxy\OneDrive\Free-Realms-Project\Servers\C# Servers\My Server\FreeRealms\obj\Debug\FreeRealms.csproj.CopyComplete
+C:\Users\Groaxy\OneDrive\Free-Realms-Project\Servers\C# Servers\My Server\FreeRealms\obj\Debug\FreeRealms.dll
+C:\Users\Groaxy\OneDrive\Free-Realms-Project\Servers\C# Servers\My Server\FreeRealms\obj\Debug\FreeRealms.pdb
+C:\Users\Groaxy\Desktop\Landwalker\Landwalker Server\FreeRealms.dll
+C:\Users\Groaxy\Desktop\Landwalker\Landwalker Server\FreeRealms.pdb
+C:\Users\Groaxy\Desktop\Landwalker\Landwalker Server Assets\Server Stuff (Don't Touch)\FreeRealms\obj\Debug\FreeRealms.csproj.AssemblyReference.cache
+C:\Users\Groaxy\Desktop\Landwalker\Landwalker Server Assets\Server Stuff (Don't Touch)\FreeRealms\obj\Debug\FreeRealms.csproj.CoreCompileInputs.cache
+C:\Users\Groaxy\Desktop\Landwalker\Landwalker Server Assets\Server Stuff (Don't Touch)\FreeRealms\obj\Debug\FreeRealms.csproj.CopyComplete
+C:\Users\Groaxy\Desktop\Landwalker\Landwalker Server Assets\Server Stuff (Don't Touch)\FreeRealms\obj\Debug\FreeRealms.dll
+C:\Users\Groaxy\Desktop\Landwalker\Landwalker Server Assets\Server Stuff (Don't Touch)\FreeRealms\obj\Debug\FreeRealms.pdb

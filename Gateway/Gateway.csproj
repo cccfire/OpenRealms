@@ -17,7 +17,7 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>..\bin\Debug\</OutputPath>
+    <OutputPath>..\..\Landwalker Server\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
@@ -31,9 +31,11 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="LibSOE, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\bin\Debug\LibSOE.dll</HintPath>
+    <Reference Include="FreeRealms">
+      <HintPath>..\Server Stuff (Don't Touch)\FreeRealms\obj\Debug\FreeRealms.dll</HintPath>
+    </Reference>
+    <Reference Include="LibSOE">
+      <HintPath>..\Server Stuff (Don't Touch)\LibSOE\obj\Debug\LibSOE.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -56,12 +58,6 @@
     <PackageReference Include="Newtonsoft.Json">
       <Version>11.0.1</Version>
     </PackageReference>
-  </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="..\FreeRealms\FreeRealms.csproj">
-      <Project>{18a4322a-01d6-481d-ac99-4657f8e0a75b}</Project>
-      <Name>FreeRealms</Name>
-    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

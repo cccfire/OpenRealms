@@ -4,27 +4,25 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{FFB3E48F-4E1E-4EEB-B614-EA3C922DBD5C}</ProjectGuid>
-    <OutputType>Exe</OutputType>
-    <RootNamespace>SOEDaemon</RootNamespace>
-    <AssemblyName>SOEDaemon</AssemblyName>
+    <ProjectGuid>{2ED6190E-CD8D-47EC-987C-0019BF66A331}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LibSOE</RootNamespace>
+    <AssemblyName>LibSOE</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
-    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
     <TargetFrameworkProfile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>..\bin\Debug\</OutputPath>
+    <OutputPath>..\..\..\Landwalker Server\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
-    <PlatformTarget>AnyCPU</PlatformTarget>
     <DebugType>pdbonly</DebugType>
     <Optimize>true</Optimize>
     <OutputPath>..\bin\Release\</OutputPath>
@@ -33,10 +31,6 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Reference Include="LibSOE, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
-      <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\bin\Debug\LibSOE.dll</HintPath>
-    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -47,16 +41,30 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Config\DaemonOptions.cs" />
-    <Compile Include="Program.cs" />
+    <Compile Include="Core\SOEClient.cs" />
+    <Compile Include="Core\SOEConnectionManager.cs" />
+    <Compile Include="Core\SOEDataChannel.cs" />
+    <Compile Include="Core\SOELogger.cs" />
+    <Compile Include="Core\SOEProtocol.cs" />
+    <Compile Include="Core\SOERoleManager.cs" />
+    <Compile Include="Core\SOEServer.cs" />
+    <Compile Include="Database\IDatabaseBackend.cs" />
+    <Compile Include="Globals\SOEDisconnectReasons.cs" />
+    <Compile Include="Globals\SOEOpCodes.cs" />
+    <Compile Include="Handlers\MessageHandlers.cs" />
+    <Compile Include="Handlers\SOEHandlers.cs" />
+    <Compile Include="Interfaces\SOEMessage.cs" />
+    <Compile Include="Interfaces\SOEPacket.cs" />
+    <Compile Include="Interfaces\SOEReader.cs" />
+    <Compile Include="Interfaces\SOEWriter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
-  </ItemGroup>
-  <ItemGroup>
-    <PackageReference Include="CommandLineParser">
-      <Version>1.9.71</Version>
+    <PackageReference Include="DotNetZip">
+      <Version>1.10.1</Version>
+    </PackageReference>
+    <PackageReference Include="log4net">
+      <Version>2.0.8</Version>
     </PackageReference>
     <PackageReference Include="Newtonsoft.Json">
       <Version>11.0.1</Version>

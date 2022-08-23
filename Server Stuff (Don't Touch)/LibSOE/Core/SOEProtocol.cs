@@ -182,7 +182,7 @@ namespace SOE.Core
                     Console.WriteLine("MULTI!");
 
                     // TODO
-                    // File.WriteAllBytes( Path.GetRandomFileName(), packet.GetRaw() );
+                    //File.WriteAllBytes( Path.GetRandomFileName(), packet.GetRaw() );
                     break;
 
                 case SOEOPCodes.DISCONNECT:

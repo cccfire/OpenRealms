@@ -2,65 +2,23 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
-using System.Linq;
 using CommandLine;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
-
 using SOE.Core;
 
-namespace SOEDaemon
+namespace LandwalkerServer
 {
     class Program
     {
-        private static DaemonOptions Options;
+        private static ServerOptions Options;
         private static Dictionary<string, SOEServer> Servers;
 
         static void Main(string[] args)
         {
-            /* byte[] packet = { 0x00, 0x09, 0x01, 0x78, 0x9c, 0x63, 0x60, 0x62, 0x90, 0x54, 0x62, 0x65, 0x60, 0x94, 0x66, 0x60, 0x60, 0x98, 0xc6, 0xc0, 0x06, 0x24, 0x1d, 0x18, 0x19, 0x18, 0xa2, 0xbd, 0x18, 0xe0, 0xc0, 0x90, 0xe7, 0xb0, 0x2d, 0x23, 0xa6, 0x92, 0x18, 0xc2, 0x4a, 0x62, 0x09, 0x2b, 0x89, 0x27, 0xac, 0x24, 0x81, 0xb0, 0x92, 0x44, 0xc2, 0x4a, 0x92, 0x08, 0x2b, 0x49, 0x26, 0xac, 0x24, 0x85, 0xb0, 0x92, 0x54, 0xc2, 0x4a, 0xd2, 0xf0, 0x2b, 0x71, 0x06, 0x2a, 0xc9, 0x86, 0x2a, 0x61, 0x04, 0x93, 0x0f, 0xec, 0xb0, 0x28, 0xc9, 0x21, 0xac, 0x24, 0x17, 0x5d, 0x09, 0x00, 0x5c, 0x8c, 0x2a, 0x67, 0x04, 0xea };
-            byte[] data = packet.Skip(3).ToArray();
+            StartGame();
 
-            byte[] decompressedData = data;
-
-            // Decompress the old packet..
-            MemoryStream dataStream = new MemoryStream(data);
-            MemoryStream decompressed = new MemoryStream();
-
-            if (packet[2] == 0x01)
-            {
-                using (ZlibStream zlibStream = new ZlibStream(dataStream, CompressionMode.Decompress))
-                {
-                    zlibStream.CopyTo(decompressed);
-                }
-
-                // Reconstruct the packet..
-                decompressedData = decompressed.ToArray();
-            }
-
-            // Reconstruct the packet..
-            byte[] newPacket = new byte[decompressedData.Length + 2];
-
-            // OpCode
-            int place = 0;
-            for (int i = 0; i < 2; i++)
-            {
-                newPacket[place] = packet[i];
-                place++;
-            }
-
-            // Data
-            for (int i = 0; i < decompressedData.Length; i++)
-            {
-                newPacket[place] = decompressedData[i];
-                place++;
-            }
-
-            File.WriteAllBytes(Path.GetRandomFileName(), newPacket);
-
-            return; */
-
-            Options = new DaemonOptions();
+            Options = new ServerOptions();
 
             // Successful parse?
             if (Parser.Default.ParseArguments(args, Options))
@@ -75,10 +33,22 @@ namespace SOEDaemon
                 // Configure!
                 Configure();
             }
-
             Process.GetCurrentProcess().WaitForExit();
         }
 
+
+        public static void StartGame()
+        {
+            string userName = Environment.UserName;
+            var process = new Process();
+            process.StartInfo.FileName = @"..\Landwalker Client\Landwalker Client.bat";
+            process.StartInfo.WorkingDirectory = @"..\Landwalker Client\";
+            process.StartInfo.RedirectStandardOutput = true;
+            process.StartInfo.UseShellExecute = false;
+            process.StartInfo.CreateNoWindow = true;
+            process.Start();
+        }
+        
         static void Configure()
         {
             Servers = new Dictionary<string, SOEServer>();
@@ -89,13 +59,10 @@ namespace SOEDaemon
             if (createDefault)
             {
                 StreamWriter writer = new StreamWriter(file);
-                Console.WriteLine("No Config!");
-
-                // TODO
+                // This creates an empty Config.json File
             }
             else
             {
-                Console.WriteLine("Found Config!");
                 // Read the contents of the file
                 StreamReader reader = new StreamReader(file);
                 JArray rootArray = new JArray();
