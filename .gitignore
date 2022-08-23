@@ -1,0 +1,7 @@
+.vs/*
+bin/*
+
+FreeRealms/obj/*
+Gateway/obj/*
+LibSOE/obj/*
+SOEDaemon/obj/*
