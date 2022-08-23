@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("SOEDaemon")]
+[assembly: AssemblyTitle("Landwalker Server")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("SOEDaemon")]
-[assembly: AssemblyCopyright("Copyright ©  2018")]
+[assembly: AssemblyProduct("Landwalker Server")]
+[assembly: AssemblyCopyright("2022 Non-Copyright")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

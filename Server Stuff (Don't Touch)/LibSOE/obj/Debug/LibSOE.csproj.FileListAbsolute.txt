@@ -1,0 +1,44 @@
+C:\Users\Groax\Documents\Free Realms Project\C# Servers\FR_Server\bin\Debug\LibSOE.dll
+C:\Users\Groax\Documents\Free Realms Project\C# Servers\FR_Server\bin\Debug\LibSOE.pdb
+C:\Users\Groax\Documents\Free Realms Project\C# Servers\FR_Server\LibSOE\obj\Debug\LibSOE.csproj.AssemblyReference.cache
+C:\Users\Groax\Documents\Free Realms Project\C# Servers\FR_Server\LibSOE\obj\Debug\LibSOE.csproj.CoreCompileInputs.cache
+C:\Users\Groax\Documents\Free Realms Project\C# Servers\FR_Server\LibSOE\obj\Debug\LibSOE.csproj.CopyComplete
+C:\Users\Groax\Documents\Free Realms Project\C# Servers\FR_Server\LibSOE\obj\Debug\LibSOE.dll
+C:\Users\Groax\Documents\Free Realms Project\C# Servers\FR_Server\LibSOE\obj\Debug\LibSOE.pdb
+C:\Users\Groaxy\OneDrive\Free Realms Project\C# Servers\FR_Server\bin\Debug\LibSOE.dll
+C:\Users\Groaxy\OneDrive\Free Realms Project\C# Servers\FR_Server\bin\Debug\LibSOE.pdb
+C:\Users\Groaxy\OneDrive\Free Realms Project\C# Servers\FR_Server\LibSOE\obj\Debug\LibSOE.csproj.AssemblyReference.cache
+C:\Users\Groaxy\OneDrive\Free Realms Project\C# Servers\FR_Server\LibSOE\obj\Debug\LibSOE.csproj.CoreCompileInputs.cache
+C:\Users\Groaxy\OneDrive\Free Realms Project\C# Servers\FR_Server\LibSOE\obj\Debug\LibSOE.csproj.CopyComplete
+C:\Users\Groaxy\OneDrive\Free Realms Project\C# Servers\FR_Server\LibSOE\obj\Debug\LibSOE.dll
+C:\Users\Groaxy\OneDrive\Free Realms Project\C# Servers\FR_Server\LibSOE\obj\Debug\LibSOE.pdb
+C:\Users\Groaxy\OneDrive\Free Realms Project\C# Servers\FR_ServerOld\bin\Debug\LibSOE.dll
+C:\Users\Groaxy\OneDrive\Free Realms Project\C# Servers\FR_ServerOld\bin\Debug\LibSOE.pdb
+C:\Users\Groaxy\OneDrive\Free Realms Project\C# Servers\FR_ServerOld\LibSOE\obj\Debug\LibSOE.csproj.AssemblyReference.cache
+C:\Users\Groaxy\OneDrive\Free Realms Project\C# Servers\FR_ServerOld\LibSOE\obj\Debug\LibSOE.csproj.CoreCompileInputs.cache
+C:\Users\Groaxy\OneDrive\Free Realms Project\C# Servers\FR_ServerOld\LibSOE\obj\Debug\LibSOE.csproj.CopyComplete
+C:\Users\Groaxy\OneDrive\Free Realms Project\C# Servers\FR_ServerOld\LibSOE\obj\Debug\LibSOE.dll
+C:\Users\Groaxy\OneDrive\Free Realms Project\C# Servers\FR_ServerOld\LibSOE\obj\Debug\LibSOE.pdb
+C:\Users\Groaxy\OneDrive\Free Realms Project\Servers\C# Servers\My Server\bin\Debug\LibSOE.dll
+C:\Users\Groaxy\OneDrive\Free Realms Project\Servers\C# Servers\My Server\bin\Debug\LibSOE.pdb
+C:\Users\Groaxy\OneDrive\Free Realms Project\Servers\C# Servers\My Server\LibSOE\obj\Debug\LibSOE.csproj.AssemblyReference.cache
+C:\Users\Groaxy\OneDrive\Free Realms Project\Servers\C# Servers\My Server\LibSOE\obj\Debug\LibSOE.csproj.CoreCompileInputs.cache
+C:\Users\Groaxy\OneDrive\Free Realms Project\Servers\C# Servers\My Server\LibSOE\obj\Debug\LibSOE.csproj.CopyComplete
+C:\Users\Groaxy\OneDrive\Free Realms Project\Servers\C# Servers\My Server\LibSOE\obj\Debug\LibSOE.dll
+C:\Users\Groaxy\OneDrive\Free Realms Project\Servers\C# Servers\My Server\LibSOE\obj\Debug\LibSOE.pdb
+C:\Users\Groaxy\OneDrive\Free-Realms-Project\Servers\C# Servers\My Server\bin\Debug\LibSOE.dll
+C:\Users\Groaxy\OneDrive\Free-Realms-Project\Servers\C# Servers\My Server\bin\Debug\LibSOE.pdb
+C:\Users\Groaxy\OneDrive\Free-Realms-Project\Servers\C# Servers\My Server\LibSOE\obj\Debug\LibSOE.csproj.AssemblyReference.cache
+C:\Users\Groaxy\OneDrive\Free-Realms-Project\Servers\C# Servers\My Server\LibSOE\obj\Debug\LibSOE.csproj.CoreCompileInputs.cache
+C:\Users\Groaxy\OneDrive\Free-Realms-Project\Servers\C# Servers\My Server\LibSOE\obj\Debug\LibSOE.csproj.CopyComplete
+C:\Users\Groaxy\OneDrive\Free-Realms-Project\Servers\C# Servers\My Server\LibSOE\obj\Debug\LibSOE.dll
+C:\Users\Groaxy\OneDrive\Free-Realms-Project\Servers\C# Servers\My Server\LibSOE\obj\Debug\LibSOE.pdb
+C:\bin\Debug\LibSOE.dll
+C:\bin\Debug\LibSOE.pdb
+C:\Users\Groaxy\Desktop\Landwalker\Landwalker Server\LibSOE.dll
+C:\Users\Groaxy\Desktop\Landwalker\Landwalker Server\LibSOE.pdb
+C:\Users\Groaxy\Desktop\Landwalker\Landwalker Server Assets\Server Stuff (Don't Touch)\LibSOE\obj\Debug\LibSOE.csproj.AssemblyReference.cache
+C:\Users\Groaxy\Desktop\Landwalker\Landwalker Server Assets\Server Stuff (Don't Touch)\LibSOE\obj\Debug\LibSOE.csproj.CoreCompileInputs.cache
+C:\Users\Groaxy\Desktop\Landwalker\Landwalker Server Assets\Server Stuff (Don't Touch)\LibSOE\obj\Debug\LibSOE.csproj.CopyComplete
+C:\Users\Groaxy\Desktop\Landwalker\Landwalker Server Assets\Server Stuff (Don't Touch)\LibSOE\obj\Debug\LibSOE.dll
+C:\Users\Groaxy\Desktop\Landwalker\Landwalker Server Assets\Server Stuff (Don't Touch)\LibSOE\obj\Debug\LibSOE.pdb

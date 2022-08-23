@@ -26,6 +26,7 @@ namespace Gateway
 
             // Finish!
             _log.Info("Finished constructing gateway!");
+
         }
     }
 }

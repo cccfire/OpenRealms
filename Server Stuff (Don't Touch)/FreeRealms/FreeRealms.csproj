@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{2ED6190E-CD8D-47EC-987C-0019BF66A331}</ProjectGuid>
+    <ProjectGuid>{18A4322A-01D6-481D-AC99-4657F8E0A75B}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>LibSOE</RootNamespace>
-    <AssemblyName>LibSOE</AssemblyName>
+    <RootNamespace>FreeRealms</RootNamespace>
+    <AssemblyName>FreeRealms</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
@@ -17,7 +17,7 @@
     <DebugSymbols>true</DebugSymbols>
     <DebugType>full</DebugType>
     <Optimize>false</Optimize>
-    <OutputPath>..\bin\Debug\</OutputPath>
+    <OutputPath>..\..\..\Landwalker Server\</OutputPath>
     <DefineConstants>DEBUG;TRACE</DefineConstants>
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
@@ -41,34 +41,20 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Core\SOEClient.cs" />
-    <Compile Include="Core\SOEConnectionManager.cs" />
-    <Compile Include="Core\SOEDataChannel.cs" />
-    <Compile Include="Core\SOELogger.cs" />
-    <Compile Include="Core\SOEProtocol.cs" />
-    <Compile Include="Core\SOERoleManager.cs" />
-    <Compile Include="Core\SOEServer.cs" />
-    <Compile Include="Database\IDatabaseBackend.cs" />
-    <Compile Include="Globals\SOEDisconnectReasons.cs" />
-    <Compile Include="Globals\SOEOpCodes.cs" />
-    <Compile Include="Handlers\MessageHandlers.cs" />
-    <Compile Include="Handlers\SOEHandlers.cs" />
-    <Compile Include="Interfaces\SOEMessage.cs" />
-    <Compile Include="Interfaces\SOEPacket.cs" />
-    <Compile Include="Interfaces\SOEReader.cs" />
-    <Compile Include="Interfaces\SOEWriter.cs" />
+    <Compile Include="PacketCodes.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="DotNetZip">
-      <Version>1.10.1</Version>
-    </PackageReference>
     <PackageReference Include="log4net">
       <Version>2.0.8</Version>
     </PackageReference>
-    <PackageReference Include="Newtonsoft.Json">
-      <Version>11.0.1</Version>
-    </PackageReference>
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LibSOE\LibSOE.csproj">
+      <Project>{2ed6190e-cd8d-47ec-987c-0019bf66a331}</Project>
+      <Name>LibSOE</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

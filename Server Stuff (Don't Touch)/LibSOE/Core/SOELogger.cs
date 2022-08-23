@@ -31,13 +31,13 @@ namespace SOE.Core
             {"WantFileLogging", true},
 
             {"WantLibraryLogging", true},
-            {"WantApplicationLogging", false},
+            {"WantApplicationLogging", true},
 
             // Severities
             {"LoggingLevel", "all"},
 
             // Prettiness
-            {"WantColors", false}
+            {"WantColors", true}
         };
 
         // Logging level dictionary
